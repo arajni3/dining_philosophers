@@ -1,1 +1,2 @@
 # dining_philosophers
+Implementation of the dining philosophers problem in C using pthreads, condition variables, and mutex locks. Each philosopher can eat only up to 10 meals or for an amount of time given from the command line. This program is meant to be run on a Linux-type operating system. If you are not using a Linux-type OS, for example, Windows, then you can use an emulator or a virtual machine, for example, Ubuntu on Windows.
